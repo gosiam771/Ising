@@ -1,0 +1,11 @@
+**/*.ipynb_checkpoints/
+**/Data
+__pycache__
+**/get_data_rust/target
+**/todo.txt
+*.h5
+**/results
+**/Results
+**/models
+*.png
+*.pdf
